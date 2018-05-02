@@ -5,13 +5,13 @@
 Install JSON Server globally
 
 ```bash
-$ npm install -g json-server --port 3001
+$ npm install -g json-server 
 ```
 
 Start JSON Server
 
 ```bash
-$ json-server --watch db.json
+$ json-server --watch db.json --port 3001
 ```
 
 ### Front:
